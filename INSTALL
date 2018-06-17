@@ -1,0 +1,5 @@
+Building CSbank
+
+See doc/build-*.md for instructions on building csbankd,
+the intended-for-services, no-graphical-interface, reference
+implementation of CSbank.
